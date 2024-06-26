@@ -124,7 +124,6 @@ body {
 .nav-contact:focus .nav-icon__item {
   color: var(--hover-color);
   fill: var(--hover-color);
-  text-decoration: underline;
   transition: var(--cubic-bezier-transition);
 }
 
